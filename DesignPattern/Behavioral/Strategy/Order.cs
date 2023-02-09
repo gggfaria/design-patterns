@@ -1,4 +1,4 @@
-﻿namespace DesignPattern.Strategy
+﻿namespace DesignPattern.Behavioral.Strategy
 {
     //Order - the Context - maintains a reference to one of the concrete strategies and communicates with this object only via the strategy interface.
     public class Order

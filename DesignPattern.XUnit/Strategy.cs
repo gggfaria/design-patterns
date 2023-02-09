@@ -1,4 +1,4 @@
-using DesignPattern.Strategy;
+using DesignPattern.Behavioral.Strategy;
 
 namespace DesignPattern.XUnit
 {

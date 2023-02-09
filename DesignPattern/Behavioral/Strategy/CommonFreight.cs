@@ -1,4 +1,4 @@
-﻿namespace DesignPattern.Strategy
+﻿namespace DesignPattern.Behavioral.Strategy
 {
     public class CommonFreight : IFreight
     {
