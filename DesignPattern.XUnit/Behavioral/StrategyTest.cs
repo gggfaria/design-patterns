@@ -2,7 +2,7 @@ using DesignPattern.Behavioral.Strategy;
 
 namespace DesignPattern.XUnit.Behavioral
 {
-    public class Strategy
+    public class StrategyTest
     {
         [Theory]
         [InlineData(50, 2.5f)]
