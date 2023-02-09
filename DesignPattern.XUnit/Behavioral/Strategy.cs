@@ -1,6 +1,6 @@
 using DesignPattern.Behavioral.Strategy;
 
-namespace DesignPattern.XUnit
+namespace DesignPattern.XUnit.Behavioral
 {
     public class Strategy
     {
