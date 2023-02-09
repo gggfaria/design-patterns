@@ -10,6 +10,7 @@
 
         public int InstallmentNumber { get; private set; }
 
+
         //overridening the abstract method - one step
         public override decimal GetInterest()
         {
